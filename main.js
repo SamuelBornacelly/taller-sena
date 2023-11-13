@@ -1,4 +1,8 @@
 
+//* Bases teóricas de estructuras de almacenamiento en memoria GA3-220501093-AA3-EV01
+
+//* Nombre estudiante: Samuel Bornacelly
+
 //* --- Problema propuesto #1 ---
 
 function calcular(figuraGeometrica, areaPerimetro, unidadMedida) {
